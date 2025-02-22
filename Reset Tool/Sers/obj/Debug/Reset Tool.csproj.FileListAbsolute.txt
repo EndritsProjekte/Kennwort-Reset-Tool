@@ -1,0 +1,10 @@
+C:\Users\Endrit\source\repos\Sers\Sers\bin\Debug\ResetTool.exe.config
+C:\Users\Endrit\source\repos\Sers\Sers\bin\Debug\ResetTool.exe
+C:\Users\Endrit\source\repos\Sers\Sers\bin\Debug\ResetTool.pdb
+C:\Users\Endrit\source\repos\Sers\Sers\obj\Debug\Reset Tool.csproj.AssemblyReference.cache
+C:\Users\Endrit\source\repos\Sers\Sers\obj\Debug\Sers.Form1.resources
+C:\Users\Endrit\source\repos\Sers\Sers\obj\Debug\ResetTool.Properties.Resources.resources
+C:\Users\Endrit\source\repos\Sers\Sers\obj\Debug\Reset Tool.csproj.GenerateResource.cache
+C:\Users\Endrit\source\repos\Sers\Sers\obj\Debug\Reset Tool.csproj.CoreCompileInputs.cache
+C:\Users\Endrit\source\repos\Sers\Sers\obj\Debug\ResetTool.exe
+C:\Users\Endrit\source\repos\Sers\Sers\obj\Debug\ResetTool.pdb
